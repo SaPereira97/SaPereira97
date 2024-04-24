@@ -27,7 +27,6 @@
 
 <h3 align="left">Let's get in touch :</h3>
 <p align="left">
-<p align="center">
  <a href="https://www.linkedin.com/in/sapereira97/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
