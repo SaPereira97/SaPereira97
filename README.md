@@ -27,8 +27,10 @@
 
 <h3 align="left">Let's get in touch :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sapereira97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karem saad" height="30" width="40" /></a>
-
+<p align="center">
+ <a href="https://www.linkedin.com/in/sapereira97/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
 <a href="CV_Jose_Pereira.pdf" download>
   <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=Github&logoColor=white"/>
  </a>
