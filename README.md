@@ -38,7 +38,7 @@
 <hr>
 <h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries 🚀</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,javascript,css,mysql,jquery,html,maven,spring,bootstrap,vscode,postman,git,github" 
+    <img src="https://skillicons.dev/icons?i=java,javascript,css,mysql,jquery,html,maven,hibernate,spring,bootstrap,npm,nodejs,vscode,idea,postman,git,github,vim,aws,codepen," 
  </p>
 
 <hr>
